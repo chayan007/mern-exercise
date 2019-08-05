@@ -1,0 +1,62 @@
+POST http://localhost:5000/users?username=chayan
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-08-05T070424.200.json
+
+###
+
+POST http://localhost:5000/users?username=chayan
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-08-05T070350.200.json
+
+###
+
+POST http://localhost:5000/users
+Accept: */*
+Cache-Control: no-cache
+username: chayan
+
+<> 2019-08-05T070302.200.json
+
+###
+
+POST http://localhost:5000/users
+Accept: */*
+Cache-Control: no-cache
+username: chayan
+
+<> 2019-08-05T070300.200.json
+
+###
+
+POST http://localhost:5000/users
+Accept: */*
+Cache-Control: no-cache
+username: chayan
+
+<> 2019-08-05T070259.200.json
+
+###
+
+POST http://localhost:5000/users
+Accept: */*
+Cache-Control: no-cache
+username: chayan
+
+<> 2019-08-05T070244.200.json
+
+###
+
+POST http://localhost:5000/users
+Accept: */*
+Cache-Control: no-cache
+username: chayan
+
+<> 2019-08-05T070226.200.json
+
+###
+

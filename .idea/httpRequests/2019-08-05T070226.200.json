@@ -1,0 +1,42 @@
+{
+  "Error": {
+    "errors": {
+      "password": {
+        "message": "Path `password` is required.",
+        "name": "ValidatorError",
+        "properties": {
+          "message": "Path `password` is required.",
+          "type": "required",
+          "path": "password"
+        },
+        "kind": "required",
+        "path": "password"
+      },
+      "email": {
+        "message": "Path `email` is required.",
+        "name": "ValidatorError",
+        "properties": {
+          "message": "Path `email` is required.",
+          "type": "required",
+          "path": "email"
+        },
+        "kind": "required",
+        "path": "email"
+      },
+      "username": {
+        "message": "Path `username` is required.",
+        "name": "ValidatorError",
+        "properties": {
+          "message": "Path `username` is required.",
+          "type": "required",
+          "path": "username"
+        },
+        "kind": "required",
+        "path": "username"
+      }
+    },
+    "_message": "User validation failed",
+    "message": "User validation failed: password: Path `password` is required., email: Path `email` is required., username: Path `username` is required.",
+    "name": "ValidationError"
+  }
+}
